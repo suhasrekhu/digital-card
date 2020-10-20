@@ -1,0 +1,8 @@
+{
+  "name": "digital card",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "deb604a8"
+}
